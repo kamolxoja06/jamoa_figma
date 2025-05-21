@@ -1,12 +1,41 @@
-.menu{
+
+/* ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+li{
+    margin-left: 40px;
+} */
+
+.ozodota{
 width: 100%;
-height: 130px;
+height: 610px;
 border: 1px solid black;
 
-
-
+}
+.ozodt1{
+font-family: SF Pro Text;
+font-weight: 600px;
+font-size: 44px;
+line-height: 62px;
+letter-spacing: 0%;
 
 }
+
+.ozodok1{
+width: 499px;
+height: 226px;
+top: 317px;
+left: 100px;
+gap: 24px;
+}
+
+
+
+
+
+
 
 
 
