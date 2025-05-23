@@ -1,3 +1,14 @@
+
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+li{
+    margin-left: 40px;
+}
+
+
 .text1{
     font-family: SF Pro Text;
     font-weight: 400;
@@ -5,4 +16,26 @@
     line-height: 26px;
     letter-spacing: 0%;
 
+}
+.text2{
+    font-family: SF Pro Text;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 5%;
+    vertical-align: middle;
+
+}
+.rang{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+}
+.text3{
+    font-size: 20px;
+}
+.b1{
+    width: 288px;
+    height: 426px;
+    margin-bottom: 20px;
 }
