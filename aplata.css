@@ -1,0 +1,302 @@
+.container{
+    width: 100%;
+    height: 1000px;
+    border: 1px solid white;
+}
+.or{
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+    background-color: rgb(44, 55, 70);
+}
+.ter{
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+}
+.olik{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 290px;
+    color: white;
+}
+.ol{
+    margin-left: 10px;
+}
+.kop{
+    margin-left: 10px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+li{
+    margin-left: 40px;
+}
+.kor{
+width: 50.400020599365234;
+height: 42;
+top: 64px;
+left: 100px;
+
+}
+.c{
+    width: 18.75;
+height: 18.75;
+top: 0.63px;
+left: 0.63px;
+
+}
+.lop{
+    width: 222;
+height: 26;
+top: 146px;
+left: 100px;
+ margin-top:10px;
+
+}
+.za{
+    font-family: SF Pro Text;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0%;
+
+}
+.kal{
+    font-family: SF Pro Text;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0%;
+
+}
+.hg{
+     font-family: SF Pro Text;
+font-weight: 600;
+font-size: 32px;
+line-height: 42px;
+letter-spacing: 0%;
+}
+.dik{
+    width: 1239;
+height: 343;
+top: 278px;
+left: 100px;
+gap: 30px;
+margin-top: 22px;
+display: flex;
+
+}
+.l{
+    width: 90px;
+    height: 60px;
+ 
+    position: relative;
+  
+}
+.xc{
+     width: 100px;
+    height: 30px;
+       border: 1px solid blue;
+    background-color: blue;
+    position: absolute;
+    margin-top:-230px ;
+    margin-left: 270px;
+}
+
+.l1{
+    width: 90px;
+    height: 60px;
+ 
+    position: relative;
+  
+}
+.xc{
+     width: 100px;
+    height: 30px;
+       border: 1px solid blue;
+    background-color: blue;
+    position: absolute;
+    margin-top:-230px ;
+    margin-left: 270px;
+}
+
+.g1{
+    width: 100px;
+    height: 250px;
+margin-left: 290px;
+
+}
+.g1{
+    width: 300px;
+    height: 250px;
+ 
+
+}
+.xc1{
+     width: 100px;
+    height: 30px;
+       border: 1px solid blue;
+    background-color: blue;
+    position: absolute;
+    margin-top:-230px ;
+    margin-left: 270px;
+}
+.ota12{
+    width: 1239;
+height: 400px;
+top: 278px;
+left: 100px;
+gap: 30px;
+display: flex;
+border: 1px solid black;
+}
+.dik1{
+    margin-left: 260px;
+}
+.di{
+    width: 100%;
+    height: auto;
+margin-top:20px ;
+    display: flex;
+
+}
+.r{
+    width: 30%;
+    height: 250px;
+    position: relative;
+}
+.ty{
+    width: 100%;
+    height: 250px;
+
+}
+.t{
+    width: 30%;
+    height: 250px;
+    margin-left: 57px;
+}
+.a{
+    border: 1px solid white;
+    background-color: blue;
+    width: 108px;
+    height: 40px;
+    position: absolute;
+    margin-left: -130px;
+    margin-top: -20px;
+}
+.k{
+   width: 108px;
+    height: 40px;
+    position: absolute;
+    margin-left: -130px;
+    margin-top: -20px;
+}
+.a1{
+    border: 1px solid white;
+    background-color:#00B33C;
+    width: 108px;
+    height: 40px;
+    position: absolute;
+    margin-left: -130px;
+    margin-top: -20px;
+}
+.bb{
+    width: 140;
+height: 30;
+
+margin-left: 10px;
+font-family: SF Pro Text;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+
+
+}
+.xb{
+    width: 2px;
+height: 20px;
+margin-top:3px;
+background: #4295E4;
+position: absolute;
+
+}
+.m{
+    display: flex;
+    
+    position: relative;
+}
+.rg{
+     width: 100%;
+    height: auto;
+}
+.lm{
+    width: 750px;
+    height: auto;
+margin-top:200px ;
+ 
+
+}
+.lm1{
+    width: 700px;
+    height: auto;
+margin-top:20px ;
+ 
+
+}
+.lm12{
+    width: 800px;
+    height: auto;
+margin-top:20px ;
+ 
+
+}
+.mn{
+    width: 300px;
+height: 42;
+top: 701px;
+left: 100px;
+font-family: SF Pro Text;
+font-weight: 600;
+font-size: 32px;
+line-height: 42px;
+letter-spacing: 0%;
+
+}
+.plo{
+width: 30px;
+height: 72px;
+
+
+}
+.ca{
+    color: #000;
+    font-family: SF Pro Text;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+
+}
+.ga{
+    font-family: SF Pro Text;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0%;
+
+}
+.vf{
+    font-family: SF Pro Text;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0%;
+
+}
+.bg{
+    margin-left: 10px;
+}
